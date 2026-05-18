@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hi, I’m Nemo, a Class 11 student with PCM+Computer Science.<br>Deeply interested in software engineering, automation, and game technology.<br>I like breaking systems, understanding why they work, and then rebuilding them better(sometimes faster, sometimes accidentally on fire🔥).<br><br>🔭I’m currently working on:<br>>Automation workflows using tools like n8n.(APIs, triggers, conditional logic, integrations)<br>>Java projects.(core logic, algorithms, UI with Swing/BlueJ)<br>>Linux-based setups and lightweight environments.<br>>Experimenting with AI-assisted content pipelines.(scripts→media→upload)<br><br>
+👋Hi, I’m Nemo, a Class 12 student with PCM+Computer Science.<br>Deeply interested in software engineering, automation, and game technology.<br>I like breaking systems, understanding why they work, and then rebuilding them better(sometimes faster, sometimes accidentally on fire🔥).<br><br>🔭I’m currently working on:<br>>Automation workflows using tools like n8n.(APIs, triggers, conditional logic, integrations)<br>>Java projects.(core logic, algorithms, UI with Swing/BlueJ)<br>>Linux-based setups and lightweight environments.<br>>Experimenting with AI-assisted content pipelines.(scripts→media→upload)<br><br>
 
 
 ## 🌐 Socials:

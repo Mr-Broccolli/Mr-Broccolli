@@ -11,6 +11,7 @@
 
 # 🏆 Certifications:
 [![AWS Badge](./assets/aws-educate-machine-learning-foundations-training-b.png)](https://www.credly.com/badges/70ccddad-a1b3-40b9-a943-f2220d15186a/public_url)
+[![Anthropic Certificate](./assets/certificate-p4yunoc958qa-1779248886.png)](https://verify.skilljar.com/c/p4yunoc958qa)
 
 # 📊 GitHub Stats:
 

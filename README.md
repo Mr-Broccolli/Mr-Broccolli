@@ -10,9 +10,9 @@
 
 
 # 🏆 Certifications:
-[![AWS ML Badge](./assets/aws-educate-machine-learning-foundations-training-b.png)](https://www.credly.com/badges/70ccddad-a1b3-40b9-a943-f2220d15186a/public_url)
+[![AWS ML Badge](./assets/aws-educate-machine-learning-foundations-training-b(156px).png)](https://www.credly.com/badges/70ccddad-a1b3-40b9-a943-f2220d15186a/public_url)
 [![Anthropic Badge](./assets/certificate-p4yunoc958qa-1779248886.png)](https://verify.skilljar.com/c/p4yunoc958qa)
-[![AWS Cloud 101 Badge](./assets/aws-educate-introduction-to-cloud-101-training-badg.png)](https://www.credly.com/badges/90e11729-c2d6-4361-9fc5-5320b50e7c88/public_url)
+[![AWS Cloud 101 Badge](./assets/aws-educate-introduction-to-cloud-101-training-badg(156px).png)](https://www.credly.com/badges/90e11729-c2d6-4361-9fc5-5320b50e7c88/public_url)
 
 # 📊 GitHub Stats:
 

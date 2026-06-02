@@ -1,8 +1,8 @@
 # 💫 About Me:
-👋Hi, I’m Nemo, a Class 12 student with PCM+Computer Science.<br>Deeply interested in software engineering, automation, and game technology.<br>I like breaking systems, understanding why they work, and then rebuilding them better(sometimes faster, sometimes accidentally on fire🔥).<br><br>🔭I’m currently working on:<br>>Automation workflows using tools like n8n.(APIs, triggers, conditional logic, integrations)<br>>Java projects.(core logic, algorithms, UI with Swing/BlueJ)<br>>Linux-based setups and lightweight environments.<br>>Experimenting with AI-assisted content pipelines.(scripts→media→upload)<br><br>
+Hi, I’m Nemo, a Class 12 student with PCM+Computer Science.<br>Deeply interested in software engineering, automation, and game technology.<br>I like breaking systems, understanding why they work, and then rebuilding them better.<br><br>I’m currently working on:<br>>Automation workflows using tools like n8n.(APIs, triggers, conditional logic, integrations)<br>>Java projects.(core logic, algorithms, UI with Swing/BlueJ)<br>>Linux-based setups and lightweight environments.<br>>Experimenting with AI-assisted content pipelines.(scripts→media→upload)<br><br>
 
 
-## 🌐 Socials:
+## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Itz_mr_broccoli) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/dora_the_drug_exporter) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhatnagar.nitigya13btt@gmail.com) 
 
 # 💻 Tech Stack:
@@ -25,8 +25,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Mr-Broccolli&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mrbroccolli) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Nimesh730322) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/MrBroccolli) 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  ### Buy me a coffee
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mrbroccolli) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Nimesh730322) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/MrBroccolli)

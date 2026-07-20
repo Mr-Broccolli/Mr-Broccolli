@@ -13,10 +13,10 @@ Hi, I’m Nemo, a Class 12 student with PCM+Computer Science.<br>Deeply interest
 
 | Certification / Course | Provider | Status / Verification |
 | :--- | :--- | :--- |
-| **Deloitte Data Analytics Virtual Experience** | Deloitte | [Verify Certificate](https://drive.google.com/file/d/1QWxE49yA4etn2f6C02HBES3sDU3t0ggX/view?usp=sharing) |
+| **Deloitte Data Analytics Job Simulation** | Deloitte | [Verify Certificate](https://drive.google.com/file/d/1QWxE49yA4etn2f6C02HBES3sDU3t0ggX/view?usp=sharing) |
 | **Junior Makeathon 2026** | Shaastra, IIT Madras | [Verify Certificate](https://drive.google.com/file/d/1ny6D6T4RsmK5y5SG6JeJiM-GjzIBXoDu/view?usp=sharing) |
 | **Introduction to Electronic Systems** | IIT Madras | [Verify Certificate](https://drive.google.com/file/d/1c7HaIXR3tZYxiu8HS3r2gxZeScwwKFOH/view?usp=sharing) |
-| **Anthropic Claude Certified** | Anthropic | [Verify Skilljar](https://verify.skilljar.com/c/p4yunoc958qa/) |
+| **Anthropic Claude Certified** | Anthropic | [Verify Certificate](https://drive.google.com/file/d/1jhJifdOXhVWS9ozrP1OP5hYa-Qz0nH1r/view?usp=sharing) |
 | **AWS Educate: Machine Learning Foundations** | AWS | [Verify Credly](https://www.credly.com/badges/70ccddad-a1b3-40b9-a943-f2220d15186a/public_url) |
 | **AWS Educate: Introduction to Cloud 101** | AWS | [Verify Credly](https://www.credly.com/badges/90e11729-c2d6-4361-9fc5-5320b50e7c88/public_url) |
 

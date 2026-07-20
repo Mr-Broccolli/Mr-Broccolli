@@ -15,7 +15,7 @@ Hi, I’m Nemo, a Class 12 student with PCM+Computer Science.<br>Deeply interest
 | :--- | :--- | :--- |
 | **Deloitte Data Analytics Virtual Experience** | Deloitte | *In Progress* — [View Program](https://www.theforage.com/simulations/deloitte-au/data-analytics-s5zy) |
 | **Junior Makeathon 2026** | Shaastra, IIT Madras | [Verify Certificate](https://drive.google.com/file/d/1ny6D6T4RsmK5y5SG6JeJiM-GjzIBXoDu/view?usp=sharing) |
-| **Introduction to Electronic Systems** | IIT Madras | [Verify Certificate](https://drive.google.com/file/d/1CiR4VVAm_1IFEE2-1LKBgh6C2SEI97l_/view?usp=sharing) |
+| **Introduction to Electronic Systems** | IIT Madras | [Verify Certificate](https://drive.google.com/file/d/1c7HaIXR3tZYxiu8HS3r2gxZeScwwKFOH/view?usp=sharing) |
 | **Anthropic Claude Certified** | Anthropic | [Verify Skilljar](https://verify.skilljar.com/c/p4yunoc958qa) |
 | **AWS Educate: Machine Learning Foundations** | AWS | [Verify Credly](https://www.credly.com/badges/70ccddad-a1b3-40b9-a943-f2220d15186a/public_url) |
 | **AWS Educate: Introduction to Cloud 101** | AWS | [Verify Credly](https://www.credly.com/badges/90e11729-c2d6-4361-9fc5-5320b50e7c88/public_url) |

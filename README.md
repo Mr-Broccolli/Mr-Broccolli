@@ -13,7 +13,7 @@ Hi, I’m Nemo, a Class 12 student with PCM+Computer Science.<br>Deeply interest
 
 | Certification / Course | Provider | Status / Verification |
 | :--- | :--- | :--- |
-| **Deloitte Data Analytics Virtual Experience** | Deloitte | *In Progress* — [View Program](https://www.theforage.com/simulations/deloitte-au/data-analytics-s5zy) |
+| **Deloitte Data Analytics Virtual Experience** | Deloitte | [Verify Certificate](https://drive.google.com/file/d/1QWxE49yA4etn2f6C02HBES3sDU3t0ggX/view?usp=sharing) |
 | **Junior Makeathon 2026** | Shaastra, IIT Madras | [Verify Certificate](https://drive.google.com/file/d/1ny6D6T4RsmK5y5SG6JeJiM-GjzIBXoDu/view?usp=sharing) |
 | **Introduction to Electronic Systems** | IIT Madras | [Verify Certificate](https://drive.google.com/file/d/1c7HaIXR3tZYxiu8HS3r2gxZeScwwKFOH/view?usp=sharing) |
 | **Anthropic Claude Certified** | Anthropic | [Verify Skilljar](https://verify.skilljar.com/c/p4yunoc958qa) |
